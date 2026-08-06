@@ -47,7 +47,7 @@ The application gives users a topic, provides one minute to explain it, and help
 |---|---|
 | Flutter | Cross-platform mobile development |
 | Dart | Programming language |
-| Gemini AI API | AI explanation analysis |
+|Anthropic Claude API | AI explanation analysis |
 | Speech To Text | Voice recognition |
 | Shared Preferences | Local data storage |
 
