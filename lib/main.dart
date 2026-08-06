@@ -4,10 +4,10 @@ import 'package:flutter/material.dart';
 //   home_screens.dart    -> class HomeScreen
 //   second_screens.dart  -> class SecondScreen (currently just a placeholder page)
 //   setting_screens.dart -> classes ProgressScreen, ProfileScreen
-import 'Screens/home_screens.dart';
-import 'Screens/second_screens.dart';
-import 'Screens/setting_screens.dart';
-import 'Screens/splash_screen.dart';
+import 'screens/home_screen.dart';
+import 'screens/second_screen.dart';
+import 'screens/setting_screen.dart';
+import 'screens/splash_screen.dart';
 
 void main() {
   runApp(const MyApp());

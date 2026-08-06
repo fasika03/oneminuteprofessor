@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import '../services/results_store.dart';
-import 'second_screens.dart';
+import '../screens/second_screen.dart';
 import 'results_history_screen.dart';
 import 'notifications_screen.dart';
 
