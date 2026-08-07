@@ -26,6 +26,11 @@ The welcome screen displayed when the application starts.
 ![Home Screen](screenshots/home.png)
 
 The main dashboard where users can start a new learning session and access app features.
+### Topic Selection Screen
+
+![Topic Selection Screen](screenshots/topic_selection_screen.png)
+
+Allows users to select or generate a learning topic before starting the one-minute explanation challenge.
 
 ### Recording Screen
 
@@ -50,13 +55,6 @@ Tracks learning history, performance trends, and improvement over time.
 ![Profile Screen](screenshots/profile.png)
 
 Allows users to view profile information and manage application settings.
-### Topic Selection Screen
-
-![Topic Selection Screen](screenshots/topic_selection.png)
-
-Allows users to select or generate a learning topic before starting the one-minute explanation challenge.
-
-
 
 ## ✨ Features
 
