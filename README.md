@@ -13,48 +13,15 @@ Many students memorize information without deeply understanding it. One Minute P
 The application gives users a topic, provides one minute to explain it, and helps them improve their learning process.
 
 ---
-## 📸 Screenshots
+## 📱 Application Screen
 
-### Splash Screen
-
-![Splash Screen](screenshots/splash.png)
-
-The welcome screen displayed when the application starts.
-
-### Home Screen
-
-![Home Screen](screenshots/home.png)
-
-The main dashboard where users can start a new learning session and access app features.
-### Topic Selection Screen
-
-![Topic Selection Screen](screenshots/topic_selection_screen.png)
-
-Allows users to select or generate a learning topic before starting the one-minute explanation challenge.
-
-### Recording Screen
-
-![Recording Screen](screenshots/recording.png)
-
-Users explain a topic using their voice and practice the Feynman learning technique.
-
-### Feedback and Score Screen
-
-![Feedback and Score](screenshots/feedback_and_score.png)
-
-Displays AI-generated feedback, explanation analysis, and performance scores.
-
-### Progress Screen
-
-![Progress Screen](screenshots/progress.png)
-
-Tracks learning history, performance trends, and improvement over time.
-
-### Profile Screen
-
-![Profile Screen](screenshots/profile.png)
-
-Allows users to view profile information and manage application settings.
+- 🌟 Splash Screen
+- 🏠 Home Screen
+- 📚 Topic Selection Screen
+- 🎙️ Recording Screen
+- 🤖 Feedback & Score Screen
+- 📊 Progress Screen
+- 👤 Profile Screen
 
 ## ✨ Features
 
