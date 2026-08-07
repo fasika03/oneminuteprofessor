@@ -13,6 +13,9 @@ Many students memorize information without deeply understanding it. One Minute P
 The application gives users a topic, provides one minute to explain it, and helps them improve their learning process.
 
 ---
+## 📸 Screenshots
+
+Coming soon...
 
 ## ✨ Features
 
@@ -54,25 +57,16 @@ The application gives users a topic, provides one minute to explain it, and help
 ---
 
 ## 📂 Project Structure
+
 lib/
 │
 ├── main.dart
-│
-├── Screens/
-│ ├── home_screen.dart
-│ ├── ask_question_screen.dart
-│ ├── history_screen.dart
-│ └── notifications_screen.dart
-│
-├── Services/
-│ ├── gemini_service.dart
-│ └── speech_service.dart
-│
-├── Models/
-│
-├── Widgets/
-│
-└── Utils/
+├── models/
+├── routes/
+├── screens/
+├── services/
+├── widgets/
+└── utils/
 
 ---
 
@@ -90,3 +84,6 @@ Check Flutter installation:
 
 ```bash
 flutter doctor
+flutter pub get
+flutter run
+```
