@@ -93,3 +93,49 @@ flutter doctor
 flutter pub get
 flutter run
 ```
+## 📱 Download
+
+Download the latest Android APK from the Releases section:
+
+👉 **[Download One Minute Professor APK](../../releases/latest)**
+
+---
+
+## 🎥 Demo
+
+A demo video/GIF will be added soon to showcase the complete learning workflow:
+
+* Splash Screen
+* Home Screen
+* Topic Selection
+* Recording Explanation
+* AI Feedback and Score
+* Progress Tracking
+* Profile and Settings
+
+---
+
+## 🤝 Contributing
+
+Contributions, suggestions, and feedback are welcome.
+
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Open a Pull Request
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 👨‍💻 Developer
+
+**Fasika**
+
+Software Engineering Student
+
+One Minute Professor was developed to help students learn more effectively using the Feynman Learning Technique and AI-powered feedback.
